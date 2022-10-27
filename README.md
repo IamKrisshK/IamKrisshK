@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://w7.pngwing.com/pngs/379/406/png-transparent-rocket-illustration-sitting-rocket-little-boy-child-boy-outer-space.png" width="700"/>
+  <img src="https://github.com/IamKrisshK/IamKrisshK/blob/main/coding.gif" width="500"/>
 </div>
 
 <div id="badges" align = "center">
