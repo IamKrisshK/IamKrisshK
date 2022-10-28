@@ -11,6 +11,7 @@
   <a href = ''>
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
+<img src="https://github.com/IamKrisshK/IamKrisshK/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 <p align = "center">
   <img align = "center" src="https://metrics.lecoq.io/IamKrisshK?template=modern&config.timezone=Asia%2FKolkata " height="400">
 </p>
