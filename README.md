@@ -17,6 +17,7 @@
 <p align = "right">
   <img src="https://github.com/IamKrisshK/IamKrisshK/blob/main/assets/github-metrics.svg" >
 </p>
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=IamKrisshK&show_icons=true&theme=dracula&hide_border=true&count_private=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=IamKrisshK&theme=dracula&hide_border=true" width = 400>
@@ -27,7 +28,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamKrisshK&theme=dracula" height="130"/>
 </p>
 
-<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamKrisshK&theme=dracula&layout=compact&hide_border=true">
+<p>
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamKrisshK&theme=dracula&layout=compact&hide_border=true">
+</p>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=IamKrisshK&theme=github" alt="Contributions Graph">
+<p>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IamKrisshK&theme=github" alt="Contributions Graph">
+</p>
 <!--img align = "center" src = "https://www.holopin.io/@iamkrisshk" alt = "Badges"-->
