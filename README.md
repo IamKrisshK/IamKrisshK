@@ -11,7 +11,9 @@
   <a href = ''>
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
-<img src="https://wakatime.com/badge/user/afdd88e2-58c7-4b78-963b-79c5b5ba3fb7.svg" alt="Coding Time"/>
+<p align= "center">
+  <img src="https://wakatime.com/badge/user/afdd88e2-58c7-4b78-963b-79c5b5ba3fb7.svg" alt="Coding Time"/>
+</p>
 <p align = "center">
   <img align = "center" src="https://metrics.lecoq.io/IamKrisshK?template=modern&config.timezone=Asia%2FKolkata " height="400">
 </p>
@@ -26,12 +28,5 @@
 </p>
 
 <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamKrisshK&theme=dracula&layout=compact&hide_border=true">
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IamKrisshK&theme=github" alt="Contributions Graph">
