@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/IamKrisshK/IamKrisshK/blob/main/coding.gif" width="500"/>
+  <img src="https://avatars.githubusercontent.com/u/84907618?s=400&u=e3162706d0c6c30651bcc5311f16fa4d5f727f10&v=4" width="200"/>
 </div>
 
 <div id="badges" align = "center">
@@ -26,11 +26,6 @@
 
 <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamKrisshK&theme=dracula&layout=compact&hide_border=true">
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IamKrisshK&theme=github" alt="Contributions Graph">
