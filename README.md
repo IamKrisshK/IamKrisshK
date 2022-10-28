@@ -14,8 +14,8 @@
 <p align= "center">
   <img src="https://wakatime.com/badge/user/afdd88e2-58c7-4b78-963b-79c5b5ba3fb7.svg" alt="Coding Time"/>
 </p>
-<p align = "center">
-![Metrics](https://metrics.lecoq.io/IamKrisshK?template=classic&isocalendar=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Asia%2FCalcutta&config.octicon=true&config.display=columns)
+<p align = "right">
+  <img src="https://github.com/IamKrisshK/IamKrisshK/blob/main/assets/github-metrics.svg" >
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=IamKrisshK&show_icons=true&theme=dracula&hide_border=true&count_private=true" width = 400>
