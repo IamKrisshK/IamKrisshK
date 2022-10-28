@@ -26,6 +26,11 @@
 
 <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamKrisshK&theme=dracula&layout=compact&hide_border=true">
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IamKrisshK&theme=github" alt="Contributions Graph">
