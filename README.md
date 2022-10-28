@@ -30,3 +30,4 @@
 <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamKrisshK&theme=dracula&layout=compact&hide_border=true">
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IamKrisshK&theme=github" alt="Contributions Graph">
+<!--img align = "center" src = "https://www.holopin.io/@iamkrisshk" alt = "Badges"-->
