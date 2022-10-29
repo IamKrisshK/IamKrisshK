@@ -14,11 +14,19 @@
 <p align= "center">
   <img src="https://wakatime.com/badge/user/afdd88e2-58c7-4b78-963b-79c5b5ba3fb7.svg" alt="Coding Time"/>
 </p>
+
+
 <p align = "center">
   <a href="">
     <img src ="https://komarev.com/ghpvc/?username=IamKrisshK&style=flat" alt = "Views">
   </a>
 </p>
+
+<p align = "right">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=afioa9i2ldluybjq2eoo4bjx9&cover_image=true&theme=default&show_offline=true&bar_color_cover=true)" alt = "https://github.com/kittinan/spotify-github-profile">
+</p>
+
+
 <p align = "right">
   <img src="https://github.com/IamKrisshK/IamKrisshK/blob/main/assets/github-metrics.svg" >
 </p>
