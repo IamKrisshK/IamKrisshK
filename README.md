@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 <p align= "center">
-  <img src="https://wakatime.com/badge/user/afdd88e2-58c7-4b78-963b-79c5b5ba3fb7.svg" alt="Coding Time"/>
+  <img src="https://wakatime.com/badge/user/afdd88e2-58c7-4b78-963b-79c5b5ba3fb7.svg" alt="Coding Time">
+  <img src = "https://wakatime.com/badge/user/afdd88e2-58c7-4b78-963b-79c5b5ba3fb7/project/aee810c8-3199-4b81-94cf-aff077b32702.svg" alt="Coding Time">
 </p>
 
 
