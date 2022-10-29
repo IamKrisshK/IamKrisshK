@@ -30,7 +30,7 @@
 
 
 <p align = "right">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=afioa9i2ldluybjq2eoo4bjx9&cover_image=true&theme=default&show_offline=true&bar_color_cover=true)" alt = "https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=afioa9i2ldluybjq2eoo4bjx9&cover_image=true&theme=compact&show_offline=true&bar_color_cover=true)" alt = "https://github.com/kittinan/spotify-github-profile" height= 200>
 </p>
 
 
