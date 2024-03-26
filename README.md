@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align = "center">
-  <a href = 'https://open.spotify.com/user/afioa9i2ldluybjq2eoo4bjx9'>
+  <a href = 'https://open.spotify.com/user/317pjej33ejkcx5bgialhbzcv7um'>
     <img src="https://img.shields.io/badge/Spotify-darkgreen?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify"/></a>
   <a href = 'https://discord.com/channels/@me/874536133273456640'>  
     <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/></a>
