@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Spotify-darkgreen?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify"/></a>
   <a href = 'https://discord.com/channels/@me/874536133273456640'>  
     <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/></a>
-  <a href = 'https://https://www.instagram.com/@iamkrisshk/'>
+  <a href = 'https://www.instagram.com/@iamkrisshk/'>
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 <p align= "center">
