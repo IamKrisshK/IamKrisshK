@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/></a>
   <a href = 'https://www.instagram.com/@iamkrisshk/'>
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href = 'https://www.youtube.com/watch?v=xvFZjo5PgG0&pp=ygUIcmlja3JvbGw%3D'>
+    <img src="https://img.shields.io/badge/OnlyFans-orange?style=for-the-badge&logo=onlyfans&logoColor=white" alt="OnlyFans"/></a>
 </div>
 <p align= "center">
   <img src="https://wakatime.com/badge/user/afdd88e2-58c7-4b78-963b-79c5b5ba3fb7.svg" alt="Coding Time">
